@@ -47,12 +47,12 @@ Developed by:K.Mohamed Althaf
 
 RegisterNumber:24005994
 
-**Truth Table**
+**Truth Table:**
 
 ![Screenshot 2024-12-26 141058](https://github.com/user-attachments/assets/a33fc5c2-ae29-4f8e-ae58-2880ab6556cd)
 
 
-**F1 & F2 Solution**
+**F1 & F2 Solution:**
 
 ![f1](https://github.com/user-attachments/assets/7b1a859a-45cd-41cc-b996-75f511764f77)
 ![f2 so](https://github.com/user-attachments/assets/ccd00e86-f026-46c4-b775-56e3a3ace89c)
