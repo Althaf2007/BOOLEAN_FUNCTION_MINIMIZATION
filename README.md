@@ -52,21 +52,22 @@ RegisterNumber:24005994
 ![Screenshot 2024-12-26 141058](https://github.com/user-attachments/assets/a33fc5c2-ae29-4f8e-ae58-2880ab6556cd)
 
 
-**F1 & F2**
+**F1 & F2 Solution**
 
 ![f1](https://github.com/user-attachments/assets/7b1a859a-45cd-41cc-b996-75f511764f77)
 ![f2 so](https://github.com/user-attachments/assets/ccd00e86-f026-46c4-b775-56e3a3ace89c)
 
 **Output:**
-LOGIC DIAGRAM
+
 ![Screenshot 2024-11-18 084919](https://github.com/user-attachments/assets/3c3e7759-748b-4191-840a-c056cbefad3f)
 
 
-**RTL**
 **Timing Diagram**
+
 ![Screenshot 2024-11-18 084840](https://github.com/user-attachments/assets/110c5e8f-0a72-45f8-bec8-c8eb17cb3fe1)
 
 
 **Result:**
+
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
